@@ -1,0 +1,14 @@
+@import "./scss/reset", "./scss/variable";
+
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Anek+Telugu:wght@300;400;500&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Anek+Telugu:wght@300;400;500&family=Hubballi&display=swap");
+
+body {
+  background-color: $backgroundColor;
+  font-family: "Amatic SC", cursive;
+}
+
+p {
+  font-family: "Amatic SC", cursive;
+}
